@@ -1,0 +1,6 @@
+# ninja log v5
+1	1203	6965477109979956	CMakeFiles/HelloSDL.dir/UserInput.c.obj	f88efbe4788c7c0e
+27	1526	6965477113470532	CMakeFiles/HelloSDL.dir/Briques.c.obj	f345edbc30456c9f
+4	567	6965478490591472	CMakeFiles/HelloSDL.dir/main.c.obj	2e5cbe22f20c0be2
+19	1375	6965477111850541	CMakeFiles/HelloSDL.dir/Menu.c.obj	7975d57641858db2
+568	725	6965478492118775	HelloSDL.exe	361cbaf49aa1a646

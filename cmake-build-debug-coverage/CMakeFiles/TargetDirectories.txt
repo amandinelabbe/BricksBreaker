@@ -1,0 +1,3 @@
+C:/Users/amand/CLionProjects/CasseBriques/cmake-build-debug-coverage/CMakeFiles/HelloSDL.dir
+C:/Users/amand/CLionProjects/CasseBriques/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+C:/Users/amand/CLionProjects/CasseBriques/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir

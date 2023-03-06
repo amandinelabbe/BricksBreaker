@@ -1,0 +1,56 @@
+"C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.4/bin/ninja/win/ninja.exe" -DCMAKE_CXX_FLAGS=--coverage -DCMAKE_C_FLAGS=--coverage -G Ninja -S C:\Users\amand\CLionProjects\CasseBriques -B C:\Users\amand\CLionProjects\CasseBriques\cmake-build-debug-coverage
+CMake Warning (dev) at C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (SDL2main)
+  does not match the name of the calling package (SDL2).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindSDL2.cmake:318 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  CMakeLists.txt:12 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (SDL2main)
+  does not match the name of the calling package (SDL2).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindSDL2.cmake:318 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindSDL2_image.cmake:114 (find_package)
+  CMakeLists.txt:13 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (SDL2_image)
+  does not match the name of the calling package (SDL2_Image).  This can lead
+  to problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindSDL2_image.cmake:201 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  CMakeLists.txt:13 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (SDL2main)
+  does not match the name of the calling package (SDL2).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindSDL2.cmake:318 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindSDL2_ttf.cmake:114 (find_package)
+  CMakeLists.txt:14 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (SDL_mixer)
+  does not match the name of the calling package (SDL_MIXER).  This can lead
+  to problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/FindSDL_mixer.cmake:92 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  CMakeLists.txt:15 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/amand/CLionProjects/CasseBriques/cmake-build-debug-coverage
